@@ -1,2 +1,2 @@
-# TypeScript NodeJS Estudo
- Estudo de TypeScript com NodeJS, com base no vídeo da RocketSeat
+# TS-Node-Estudo
+ Estou de TypeScript no Node, com base na aula da RocketSeat
